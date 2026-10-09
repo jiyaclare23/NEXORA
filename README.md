@@ -1,4 +1,4 @@
-# NEXORA
+<img width="905" height="427" alt="image" src="https://github.com/user-attachments/assets/795403ff-2740-4fce-a8bd-bc7f9768561c" /># NEXORA
 
 Team ID: [OPCO040]
 
@@ -28,6 +28,7 @@ Key Features
 
 4. Architecture Diagram
 
+ 
 Workflow
 
 1. Input and Simulation: Simulated sensor readings and industrial device parameters are provided to the application.
@@ -92,7 +93,8 @@ http://localhost:8501
 
 7. Output Screenshots
 
-"Output Screenshot" (docs/output.png)
+"Output Screenshot" (https://github.com/jiyaclare23/NEXORA.git)
+
 
 Output Description
 
@@ -123,22 +125,23 @@ The example incident represents simulated data and does not indicate a confirmed
 
 9. Team Contributions
 
-Member Name| Contribution
-[Member 1]| Python application development and anomaly detection logic
-[Member 2]| Streamlit dashboard design and incident visualization
-[Member 3]| Testing, documentation, and GitHub repository management
+Krishna Pradha 
+Project planning, problem identification, and industrial sensor simulation
+Jiya Clare Gigi
+Python programming, anomaly detection, and threat severity analysis
+John Francy
+Streamlit dashboard development, incident details, and incident history
+Sebin Johny
+Recommended response actions, testing, documentation, and Telegram notification integration
 
-Update the names and contributions to reflect the actual work completed by your team.
 
 10. Tools Used
 
-Tool / Platform| Purpose / Why Used
-Python| Implementing the application logic and simulated detection conditions
-Streamlit| Building the interactive monitoring dashboard
-Visual Studio Code| Writing, debugging, and running the Python application
-Git| Tracking source code changes
-GitHub| Hosting the repository and sharing the project
-ChatGPT (AI Tool)| Assisting with code troubleshooting, documentation preparation, and improving the project explanation
+- Python – Core programming language for the project logic.
+- Streamlit – To build the interactive web dashboard.
+- Visual Studio Code (VS Code) – Code editor used for development.
+- GitHub – To store and share the project source code and documentation.
+- Web Browser – To run and view the Streamlit dashboard.
 
 ---
 
