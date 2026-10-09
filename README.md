@@ -62,8 +62,8 @@ Installation and Execution
 
 Clone the repository:
 
-git clone <>
-cd <YOUR_PROJECT_FOLDER>
+git clone <https://github.com/jiyaclare23/NEXORA.git>
+cd <>
 
 Create and activate a virtual environment (recommended):
 
