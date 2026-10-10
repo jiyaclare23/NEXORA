@@ -27,7 +27,7 @@ Key Features
 - Interactive dashboard for monitoring simulated incidents.
 
 4. Architecture Diagram
-<https://github.com/jiyaclare23/NEXORA.git/arc.jpeg>
+<https://github.com/jiyaclare23/NEXORA.git>
  
 Workflow
 
@@ -64,7 +64,7 @@ Installation and Execution
 Clone the repository:
 
 git clone <https://github.com/jiyaclare23/NEXORA.git>
-cd <https://github.com/jiyaclare23/NEXORA.git/project.py>
+cd <https://github.com/jiyaclare23/NEXORA.git/>
 
 Create and activate a virtual environment (recommended):
 
