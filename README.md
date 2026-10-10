@@ -1,4 +1,4 @@
-<img width="905" height="427" alt="image" src="https://github.com/user-attachments/assets/795403ff-2740-4fce-a8bd-bc7f9768561c" /># NEXORA
+# NEXORA
 
 Team ID: [OPCO040]
 
